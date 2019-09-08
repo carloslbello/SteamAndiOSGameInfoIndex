@@ -1,0 +1,24 @@
+{
+  "steam": {
+    "id": 219740,
+    "dlcs": {
+      "Reign of Giants": 282470,
+      "Shipwrecked": 393010,
+      "Hamlet": 712640
+    }
+  },
+  "ios": [
+    {
+      "id": 1012298403,
+      "dlc_included": ["Reign of Giants"]
+    },
+    {
+      "id": 1147297267,
+      "dlc_included": ["Shipwrecked"]
+    }
+  ],
+  "cloud": true,
+  "game_parity": null,
+  "save_compatibility": null,
+  "notes": "Shipwrecked definitely not compatible. Have to test Reign of Giants again."
+}

@@ -1,0 +1,15 @@
+{
+  "steam": {
+    "id": 250900,
+    "dlcs": {
+      "Afterbirth": 401920,
+      "Afterbirth+": 570660
+    }
+  },
+  "ios": {
+    "id": 1069549814
+  },
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": true
+}

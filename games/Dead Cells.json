@@ -1,0 +1,15 @@
+{
+  "steam": {
+    "id": 588650,
+    "dlcs": {
+      "Rise of the Giant": 1046440
+    }
+  },
+  "ios": {
+    "id": 1389752090
+  },
+  "cloud": null,
+  "game_parity": false,
+  "save_compatibility": null,
+  "notes": "iOS: Contacted developers about iCloud. Game is behind on updates compared to Steam and doesn't have RotG. Haven't tested iOS->Steam save file compat but I think it should work."
+}

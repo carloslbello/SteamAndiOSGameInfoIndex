@@ -1,0 +1,20 @@
+{
+  "steam": {
+    "id": 247080,
+    "dlcs": {
+      "AMPLIFIED": 554000
+    }
+  },
+  "ios": [
+    {
+      "id": 1085123968
+    },
+    {
+      "id": 1445623416,
+      "dlc_included": ["AMPLIFIED"]
+    }
+  ],
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": true
+}
