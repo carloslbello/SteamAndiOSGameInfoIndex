@@ -43,19 +43,18 @@ def get_games():
 
 # print(get_games())
 
-def write_md():
+def write_md(filename, games):
     checkmark_key = {
         True: '\u2713',
         False: '\u2717',
         None: '?'
     }
-    games = get_games()
-    with open('Games.md', 'w') as mdfile:
-        mdfile.write('|Game|Steam|iOS|Cloud Save|Game Parity|Save Compatibility|Notes|\n')
-        mdfile.write('|-|-|-|-|-|-|-|\n')
+    with open(filename, 'w') as mdfile:
+        mdfile.write('Game|Steam|iOS|Cloud Save|Game Parity|Save Compatibility|Notes\n')
+        mdfile.write('-|-|-|-|-|-|-\n')
         for game in sorted(list(games.keys())):
             game_obj = games[game]
-            game_row = f'|{game}|'
+            game_row = f'{game}|'
             game_row += f'[{game}]({game_obj["steam"]["link"]})'
             for dlc in game_obj['steam']['dlcs']:
                 game_row += f', [{dlc} DLC]({game_obj["steam"]["dlcs"][dlc]["link"]})'
@@ -74,7 +73,9 @@ def write_md():
             game_row += '|' + checkmark_key[game_obj['cloud']]
             game_row += '|' + checkmark_key[game_obj['game_parity']]
             game_row += '|' + checkmark_key[game_obj['save_compatibility']]
-            game_row += '|' + game_obj['notes'] + '|\n'
+            game_row += '|' + game_obj['notes'] + '\n'
             mdfile.write(game_row)
 
-write_md()
+games = get_games()
+write_md('Games.md', games)
+write_md('Compatible Games.md', {k: v for k, v in games.items() if v['cloud'] and v['game_parity'] and v['save_compatibility']})

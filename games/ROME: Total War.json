@@ -1,0 +1,24 @@
+{
+  "steam": {
+    "id": 4760,
+    "dlcs": {
+      "Alexander": 4770
+    }
+  },
+  "ios": [
+    {
+      "id": 1106831630
+    },
+    {
+      "id": 1183898700,
+      "dlc_included": ["Barbarian Invasion"]
+    },
+    {
+      "id": 1245565445,
+      "dlc_included": ["Alexander"]
+    }
+  ],
+  "cloud": true,
+  "game_parity": false,
+  "save_compatibility": false
+}

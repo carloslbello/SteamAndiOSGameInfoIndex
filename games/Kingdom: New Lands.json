@@ -1,0 +1,12 @@
+{
+  "steam": {
+    "id": 496300
+  },
+  "ios": {
+    "id": 1118513354
+  },
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": null,
+  "notes": "iOS saves are compressed and I can't figure out what compression is used."
+}
