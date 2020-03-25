@@ -19,7 +19,11 @@ def add_game():
     print(f'App Store ID: {appstore_id}')
     cloud = convertBoolAnswer(input('Cloud save on both platforms? (y/n/?) [?]: '))
     parity = convertBoolAnswer(input('Game parity on both platforms? (y/n/?) [?]: '))
-    save_compatibility = convertBoolAnswer(input('Save compatibility between platforms? (y/n/?) [?]: '))
+    save_compatibility = 'false'
+    if parity == 'false':
+        print('Assuming save compatibility is no, since game parity is no')
+    else:
+        save_compatibility = convertBoolAnswer(input('Save compatibility between platforms? (y/n/?) [?]: '))
     notes = input('Notes: ')
     json_to_save = f'''{{
   "steam": {{
