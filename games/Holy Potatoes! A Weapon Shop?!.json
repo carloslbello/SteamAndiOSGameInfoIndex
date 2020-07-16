@@ -7,5 +7,6 @@
   },
   "cloud": true,
   "game_parity": true,
-  "save_compatibility": false
+  "save_compatibility": false,
+  "notes": "Contact developer about files?"
 }
