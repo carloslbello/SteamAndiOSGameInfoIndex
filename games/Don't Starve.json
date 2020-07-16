@@ -18,7 +18,6 @@
     }
   ],
   "cloud": true,
-  "game_parity": null,
-  "save_compatibility": null,
-  "notes": "Shipwrecked definitely not compatible. Have to test Reign of Giants again."
+  "game_parity": false,
+  "save_compatibility": false
 }
