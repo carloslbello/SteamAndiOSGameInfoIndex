@@ -1,0 +1,11 @@
+{
+  "steam": {
+    "id": 253030
+  },
+  "ios": {
+    "id": 700227648
+  },
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": true
+}
