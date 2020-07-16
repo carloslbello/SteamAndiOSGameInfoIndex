@@ -1,5 +1,6 @@
 Game|Steam|iOS|Cloud Save|Game Parity|Save Compatibility|Notes
 -|-|-|-|-|-|-
+Bad North: Jotunn Edition|[Bad North: Jotunn Edition](https://store.steampowered.com/app/688420)|[Bad North: Jotunn Edition](https://apps.apple.com/us/app/id1367121168)|✓|✓|✓|
 Cosmic Express|[Cosmic Express](https://store.steampowered.com/app/583270)|[Cosmic Express](https://apps.apple.com/us/app/id1152474226)|✓|✓|✓|
 Crypt of the Necrodancer|[Crypt of the Necrodancer](https://store.steampowered.com/app/247080), [AMPLIFIED DLC](https://store.steampowered.com/app/554000)|[Crypt of the Necrodancer](https://apps.apple.com/us/app/id1085123968), [Crypt of the Necrodancer + AMPLIFIED DLC ](https://apps.apple.com/us/app/id1445623416)|✓|✓|✓|
 Dandara: Trials of Fear Edition|[Dandara: Trials of Fear Edition](https://store.steampowered.com/app/612390)|[Dandara: Trials of Fear Edition](https://apps.apple.com/us/app/id1168013926)|✓|✓|✓|

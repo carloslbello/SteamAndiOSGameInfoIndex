@@ -6,6 +6,6 @@
     "id": 1367121168
   },
   "cloud": true,
-  "game_parity": null,
-  "save_compatibility": null
+  "game_parity": true,
+  "save_compatibility": true
 }
