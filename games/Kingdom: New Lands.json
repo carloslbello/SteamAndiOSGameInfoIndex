@@ -7,6 +7,6 @@
   },
   "cloud": true,
   "game_parity": true,
-  "save_compatibility": null,
+  "save_compatibility": false,
   "notes": "iOS saves are compressed and I can't figure out what compression is used."
 }
