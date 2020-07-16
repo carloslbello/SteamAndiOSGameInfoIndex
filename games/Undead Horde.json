@@ -1,0 +1,12 @@
+{
+  "steam": {
+    "id": 790850
+  },
+  "ios": {
+    "id": 1388267373
+  },
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": false,
+  "notes": "Contact developer about Steam version files (can it be converted to the XML files from iOS?)"
+}
