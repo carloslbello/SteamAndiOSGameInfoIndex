@@ -8,8 +8,8 @@
   "ios": {
     "id": 1389752090
   },
-  "cloud": null,
+  "cloud": true,
   "game_parity": false,
-  "save_compatibility": null,
-  "notes": "iOS: Contacted developers about iCloud. Game is behind on updates compared to Steam and doesn't have RotG. Haven't tested iOS->Steam save file compat but I think it should work."
+  "save_compatibility": false,
+  "notes": "iOS version is behind on updates. iOS->Steam should work if I can find the version in the save file and lower it to the corresponding Steam version."
 }
