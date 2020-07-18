@@ -15,6 +15,7 @@ Holy Potatoes! A Weapon Shop?!|[Holy Potatoes! A Weapon Shop?!](https://store.st
 Holy Potatoes! We’re in Space?!|[Holy Potatoes! We’re in Space?!](https://store.steampowered.com/app/505730)|[Holy Potatoes! We’re in Space?!](https://apps.apple.com/us/app/id1315946489)|✓|✓|✗|Contact developer about files?
 Hyper Light Drifter|[Hyper Light Drifter](https://store.steampowered.com/app/257850)|[Hyper Light Drifter](https://apps.apple.com/us/app/id1453875289)|✗|✗|✗|
 Kingdom: New Lands|[Kingdom: New Lands](https://store.steampowered.com/app/496300)|[Kingdom: New Lands](https://apps.apple.com/us/app/id1118513354)|✓|✓|✗|iOS saves are compressed and I can't figure out what compression is used.
+Kingdom: Two Crowns|[Kingdom: Two Crowns](https://store.steampowered.com/app/701160)|[Kingdom: Two Crowns](https://apps.apple.com/us/app/id1477991646)|✗|✓|✓|
 ROME: Total War|[ROME: Total War](https://store.steampowered.com/app/4760), [Alexander DLC](https://store.steampowered.com/app/4770)|[ROME: Total War](https://apps.apple.com/us/app/id1106831630), [ROME: Total War + Barbarian Invasion DLC ](https://apps.apple.com/us/app/id1183898700), [ROME: Total War + Alexander DLC ](https://apps.apple.com/us/app/id1245565445)|✓|✗|✗|
 Race The Sun|[Race The Sun](https://store.steampowered.com/app/253030)|[Race The Sun](https://apps.apple.com/us/app/id700227648)|✓|✓|✓|
 The Banner Saga|[The Banner Saga](https://store.steampowered.com/app/237990)|[The Banner Saga](https://apps.apple.com/us/app/id911006986)|✓|✓|✓|
