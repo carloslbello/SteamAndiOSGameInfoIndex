@@ -1,0 +1,18 @@
+{
+  "steam": {
+    "id": 718670,
+    "dlc": {
+      "The Dancer": 871650,
+      "The Priest": 871651,
+      "The Ghoul": 871900,
+      "The Exile": 1259930
+    }
+  },
+  "ios": {
+    "id": 1439886655,
+    "dlc_available": ["The Dancer", "The Priest", "The Ghoul"]
+  },
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": null
+}
