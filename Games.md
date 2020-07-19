@@ -1,26 +1,26 @@
-Game|Steam|iOS|Cloud Save|Game Parity|Save Compatibility|Notes
--|-|-|-|-|-|-
-A Good Snowman Is Hard To Build|[A Good Snowman Is Hard To Build](https://store.steampowered.com/app/316610)|[A Good Snowman Is Hard To Build](https://apps.apple.com/us/app/id1040930654)|✓|✓|✓|
-Bad North: Jotunn Edition|[Bad North: Jotunn Edition](https://store.steampowered.com/app/688420)|[Bad North: Jotunn Edition](https://apps.apple.com/us/app/id1367121168)|✓|✓|✓|
-Cat Quest|[Cat Quest](https://store.steampowered.com/app/593280)|[Cat Quest](https://apps.apple.com/us/app/id1148385289)|✓|✓|✓|
-Cosmic Express|[Cosmic Express](https://store.steampowered.com/app/583270)|[Cosmic Express](https://apps.apple.com/us/app/id1152474226)|✓|✓|✓|
-Crypt of the Necrodancer|[Crypt of the Necrodancer](https://store.steampowered.com/app/247080), [AMPLIFIED DLC](https://store.steampowered.com/app/554000)|[Crypt of the Necrodancer](https://apps.apple.com/us/app/id1085123968), [Crypt of the Necrodancer + AMPLIFIED DLC ](https://apps.apple.com/us/app/id1445623416)|✓|✓|✓|
-Dandara: Trials of Fear Edition|[Dandara: Trials of Fear Edition](https://store.steampowered.com/app/612390)|[Dandara: Trials of Fear Edition](https://apps.apple.com/us/app/id1168013926)|✓|✓|✓|
-Dead Cells|[Dead Cells](https://store.steampowered.com/app/588650), [Rise of the Giant DLC](https://store.steampowered.com/app/1046440)|[Dead Cells](https://apps.apple.com/us/app/id1389752090)|✓|✗|✗|iOS version is behind on updates. iOS->Steam should work if I can find the version in the save file and lower it to the corresponding Steam version.
-Don't Starve|[Don't Starve](https://store.steampowered.com/app/219740), [Reign of Giants DLC](https://store.steampowered.com/app/282470), [Shipwrecked DLC](https://store.steampowered.com/app/393010), [Hamlet DLC](https://store.steampowered.com/app/712640)|[Don't Starve + Reign of Giants DLC ](https://apps.apple.com/us/app/id1012298403), [Don't Starve + Shipwrecked DLC ](https://apps.apple.com/us/app/id1147297267)|✓|✗|✗|
-GRIS|[GRIS](https://store.steampowered.com/app/683320)|[GRIS](https://apps.apple.com/us/app/id1445379072)|✓|✓|✓|
-Gorogoa|[Gorogoa](https://store.steampowered.com/app/557600)|[Gorogoa](https://apps.apple.com/us/app/id1269225754)|?|✓|?|
-Holy Potatoes! A Spy Story?!|[Holy Potatoes! A Spy Story?!](https://store.steampowered.com/app/830590)|[Holy Potatoes! A Spy Story?!](https://apps.apple.com/us/app/id1446725273)|✓|✓|✗|Contact developer about files?
-Holy Potatoes! A Weapon Shop?!|[Holy Potatoes! A Weapon Shop?!](https://store.steampowered.com/app/363600)|[Holy Potatoes! A Weapon Shop?!](https://apps.apple.com/us/app/id1048011718)|✓|✓|✗|Contact developer about files?
-Holy Potatoes! We’re in Space?!|[Holy Potatoes! We’re in Space?!](https://store.steampowered.com/app/505730)|[Holy Potatoes! We’re in Space?!](https://apps.apple.com/us/app/id1315946489)|✓|✓|✗|Contact developer about files?
-Hyper Light Drifter|[Hyper Light Drifter](https://store.steampowered.com/app/257850)|[Hyper Light Drifter](https://apps.apple.com/us/app/id1453875289)|✗|✗|✗|
-Kingdom: New Lands|[Kingdom: New Lands](https://store.steampowered.com/app/496300)|[Kingdom: New Lands](https://apps.apple.com/us/app/id1118513354)|✓|✓|✗|iOS saves are compressed and I can't figure out what compression is used.
-Kingdom: Two Crowns|[Kingdom: Two Crowns](https://store.steampowered.com/app/701160)|[Kingdom: Two Crowns](https://apps.apple.com/us/app/id1477991646)|✗|✓|✓|
-Octodad: Dadliest Catch|[Octodad: Dadliest Catch](https://store.steampowered.com/app/224480)|[Octodad: Dadliest Catch](https://apps.apple.com/us/app/id1017367213)|✓|✓|✓|
-Party Hard|[Party Hard](https://store.steampowered.com/app/356570)|[Party Hard](https://apps.apple.com/us/app/id1136744871)|✗|?|?|
-ROME: Total War|[ROME: Total War](https://store.steampowered.com/app/4760), [Alexander DLC](https://store.steampowered.com/app/4770)|[ROME: Total War](https://apps.apple.com/us/app/id1106831630), [ROME: Total War + Barbarian Invasion DLC ](https://apps.apple.com/us/app/id1183898700), [ROME: Total War + Alexander DLC ](https://apps.apple.com/us/app/id1245565445)|✓|✗|✗|
-Race The Sun|[Race The Sun](https://store.steampowered.com/app/253030)|[Race The Sun](https://apps.apple.com/us/app/id700227648)|✓|✓|✓|
-The Banner Saga|[The Banner Saga](https://store.steampowered.com/app/237990)|[The Banner Saga](https://apps.apple.com/us/app/id911006986)|✓|✓|✓|
-The Banner Saga 2|[The Banner Saga 2](https://store.steampowered.com/app/281640)|[The Banner Saga 2](https://apps.apple.com/us/app/id1107741196)|✓|✓|✓|
-The Binding of Isaac: Rebirth|[The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900), [Afterbirth DLC](https://store.steampowered.com/app/401920), [Afterbirth+ DLC](https://store.steampowered.com/app/570660)|[The Binding of Isaac: Rebirth](https://apps.apple.com/us/app/id1069549814)|✓|✓|✓|
-Undead Horde|[Undead Horde](https://store.steampowered.com/app/790850)|[Undead Horde](https://apps.apple.com/us/app/id1388267373)|✓|✓|✗|Contact developer about Steam version files (can it be converted to the XML files from iOS?)
+Game|Steam|iOS|Cloud Save|Game Parity|DLC Parity|Save Compatibility|Notes
+-|-|-|-|-|-|-|-
+A Good Snowman Is Hard To Build|[A Good Snowman Is Hard To Build](https://store.steampowered.com/app/316610)|[A Good Snowman Is Hard To Build](https://apps.apple.com/us/app/id1040930654)|✓|✓|✓|✓|
+Bad North: Jotunn Edition|[Bad North: Jotunn Edition](https://store.steampowered.com/app/688420)|[Bad North: Jotunn Edition](https://apps.apple.com/us/app/id1367121168)|✓|✓|✓|✓|
+Cat Quest|[Cat Quest](https://store.steampowered.com/app/593280)|[Cat Quest](https://apps.apple.com/us/app/id1148385289)|✓|✓|✓|✓|
+Cosmic Express|[Cosmic Express](https://store.steampowered.com/app/583270)|[Cosmic Express](https://apps.apple.com/us/app/id1152474226)|✓|✓|✓|✓|
+Crypt of the Necrodancer|[Crypt of the Necrodancer](https://store.steampowered.com/app/247080), [AMPLIFIED DLC](https://store.steampowered.com/app/554000)|[Crypt of the Necrodancer](https://apps.apple.com/us/app/id1085123968), [Crypt of the Necrodancer + AMPLIFIED DLC](https://apps.apple.com/us/app/id1445623416)|✓|✓|✓|✓|
+Dandara: Trials of Fear Edition|[Dandara: Trials of Fear Edition](https://store.steampowered.com/app/612390)|[Dandara: Trials of Fear Edition](https://apps.apple.com/us/app/id1168013926)|✓|✓|✓|✓|
+Dead Cells|[Dead Cells](https://store.steampowered.com/app/588650), [Rise of the Giant DLC](https://store.steampowered.com/app/1046440), [The Bad Seed DLC](https://store.steampowered.com/app/1204130)|[Dead Cells](https://apps.apple.com/us/app/id1389752090)|✓|✗|✗|✗|iOS version is behind on updates. iOS->Steam should work if I can find the version in the save file and lower it to the corresponding Steam version.
+Don't Starve|[Don't Starve](https://store.steampowered.com/app/219740), [Reign of Giants DLC](https://store.steampowered.com/app/282470), [Shipwrecked DLC](https://store.steampowered.com/app/393010), [Hamlet DLC](https://store.steampowered.com/app/712640)|[Don't Starve + Reign of Giants DLC](https://apps.apple.com/us/app/id1012298403), [Don't Starve + Shipwrecked DLC](https://apps.apple.com/us/app/id1147297267)|✓|✗|✗|✗|
+GRIS|[GRIS](https://store.steampowered.com/app/683320)|[GRIS](https://apps.apple.com/us/app/id1445379072)|✓|✓|✓|✓|
+Gorogoa|[Gorogoa](https://store.steampowered.com/app/557600)|[Gorogoa](https://apps.apple.com/us/app/id1269225754)|?|✓|✓|?|
+Holy Potatoes! A Spy Story?!|[Holy Potatoes! A Spy Story?!](https://store.steampowered.com/app/830590)|[Holy Potatoes! A Spy Story?!](https://apps.apple.com/us/app/id1446725273)|✓|✓|✓|✗|Contact developer about files?
+Holy Potatoes! A Weapon Shop?!|[Holy Potatoes! A Weapon Shop?!](https://store.steampowered.com/app/363600), [Spud Tales: Journey to Olympus DLC](https://store.steampowered.com/app/391860)|[Holy Potatoes! A Weapon Shop?!](https://apps.apple.com/us/app/id1048011718) _(Spud Tales: Journey to Olympus DLC available as IAP)_|✓|✓|✓|✗|Contact developer about files?
+Holy Potatoes! We’re in Space?!|[Holy Potatoes! We’re in Space?!](https://store.steampowered.com/app/505730)|[Holy Potatoes! We’re in Space?!](https://apps.apple.com/us/app/id1315946489)|✓|✓|✓|✗|Contact developer about files?
+Hyper Light Drifter|[Hyper Light Drifter](https://store.steampowered.com/app/257850)|[Hyper Light Drifter](https://apps.apple.com/us/app/id1453875289)|✗|✗|✓|✗|
+Kingdom: New Lands|[Kingdom: New Lands](https://store.steampowered.com/app/496300)|[Kingdom: New Lands](https://apps.apple.com/us/app/id1118513354)|✓|✓|✓|✗|iOS saves are compressed and I can't figure out what compression is used.
+Kingdom: Two Crowns|[Kingdom: Two Crowns](https://store.steampowered.com/app/701160)|[Kingdom: Two Crowns](https://apps.apple.com/us/app/id1477991646)|✗|✓|✓|✓|
+Octodad: Dadliest Catch|[Octodad: Dadliest Catch](https://store.steampowered.com/app/224480)|[Octodad: Dadliest Catch](https://apps.apple.com/us/app/id1017367213)|✓|✓|✓|✓|
+Party Hard|[Party Hard](https://store.steampowered.com/app/356570)|[Party Hard](https://apps.apple.com/us/app/id1136744871)|✗|?|✓|?|
+ROME: Total War|[ROME: Total War](https://store.steampowered.com/app/4760), [Alexander DLC](https://store.steampowered.com/app/4770)|[ROME: Total War](https://apps.apple.com/us/app/id1106831630), [ROME: Total War + Barbarian Invasion DLC](https://apps.apple.com/us/app/id1183898700), [ROME: Total War + Alexander DLC](https://apps.apple.com/us/app/id1245565445)|✓|✗|✗|✗|
+Race The Sun|[Race The Sun](https://store.steampowered.com/app/253030)|[Race The Sun](https://apps.apple.com/us/app/id700227648)|✓|✓|✓|✓|
+The Banner Saga|[The Banner Saga](https://store.steampowered.com/app/237990)|[The Banner Saga](https://apps.apple.com/us/app/id911006986)|✓|✓|✓|✓|
+The Banner Saga 2|[The Banner Saga 2](https://store.steampowered.com/app/281640)|[The Banner Saga 2](https://apps.apple.com/us/app/id1107741196) _(Survival Mode DLC available as IAP)_|✓|✓|✓|✓|
+The Binding of Isaac: Rebirth|[The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900), [Afterbirth DLC](https://store.steampowered.com/app/401920), [Afterbirth+ DLC](https://store.steampowered.com/app/570660)|[The Binding of Isaac: Rebirth](https://apps.apple.com/us/app/id1069549814)|✓|✓|✗|✓|
+Undead Horde|[Undead Horde](https://store.steampowered.com/app/790850)|[Undead Horde](https://apps.apple.com/us/app/id1388267373)|✓|✓|✓|✗|Contact developer about Steam version files (can it be converted to the XML files from iOS?)

@@ -1,7 +1,7 @@
 {
   "steam": {
     "id": 4760,
-    "dlcs": {
+    "dlc": {
       "Alexander": 4770
     }
   },
@@ -20,5 +20,6 @@
   ],
   "cloud": true,
   "game_parity": false,
-  "save_compatibility": false
+  "save_compatibility": false,
+  "dlc_parity": false
 }

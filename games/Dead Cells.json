@@ -1,8 +1,9 @@
 {
   "steam": {
     "id": 588650,
-    "dlcs": {
-      "Rise of the Giant": 1046440
+    "dlc": {
+      "Rise of the Giant": 1046440,
+      "The Bad Seed": 1204130
     }
   },
   "ios": {

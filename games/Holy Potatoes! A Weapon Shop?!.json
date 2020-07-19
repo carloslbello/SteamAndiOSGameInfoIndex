@@ -1,9 +1,13 @@
 {
   "steam": {
-    "id": 363600
+    "id": 363600,
+    "dlc": {
+      "Spud Tales: Journey to Olympus": 391860
+    }
   },
   "ios": {
-    "id": 1048011718
+    "id": 1048011718,
+    "dlc_available": ["Spud Tales: Journey to Olympus"]
   },
   "cloud": true,
   "game_parity": true,

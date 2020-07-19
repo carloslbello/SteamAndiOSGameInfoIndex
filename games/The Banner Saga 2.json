@@ -3,9 +3,11 @@
     "id": 281640
   },
   "ios": {
-    "id": 1107741196
+    "id": 1107741196,
+    "dlc_available": ["Survival Mode"]
   },
   "cloud": true,
   "game_parity": true,
-  "save_compatibility": true
+  "save_compatibility": true,
+  "dlc_parity": true
 }
