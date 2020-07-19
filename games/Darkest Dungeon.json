@@ -1,0 +1,18 @@
+{
+  "steam": {
+    "id": 262060,
+    "dlc": {
+      "The Crimson Court": 580100,
+      "The Shieldbreaker": 702540,
+      "The Color Of Madness": 735730,
+      "The Musketeer": 445700
+    }
+  },
+  "ios": {
+    "id": 1199831446,
+    "dlc_available": ["The Crimson Court", "The Shieldbreaker", "The Color Of Madness", "The Musketeer"]
+  },
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": true
+}
