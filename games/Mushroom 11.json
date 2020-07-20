@@ -1,0 +1,12 @@
+{
+  "steam": {
+    "id": 243160
+  },
+  "ios": {
+    "id": 1193911528
+  },
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": false,
+  "notes": "Saves are compatible but Steam Cloud is implemented in a buggy way ([username].* save file names, when username changes new files are used)."
+}
