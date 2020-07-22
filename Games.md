@@ -1,6 +1,7 @@
 Game|Steam|iOS|Cloud Save|Game Parity|DLC Parity|Save Compatibility|Notes
 -|-|-|-|-|-|-|-
 A Good Snowman Is Hard To Build|[A Good Snowman Is Hard To Build](https://store.steampowered.com/app/316610)|[A Good Snowman Is Hard To Build](https://apps.apple.com/us/app/id1040930654)|✓|✓|✓|✓|
+Aquaria|[Aquaria](https://store.steampowered.com/app/24420)|[Aquaria](https://apps.apple.com/us/app/id469372252)|✗|✓|✓|?|
 Bad North: Jotunn Edition|[Bad North: Jotunn Edition](https://store.steampowered.com/app/688420)|[Bad North: Jotunn Edition](https://apps.apple.com/us/app/id1367121168)|✓|✓|✓|✓|
 Cat Quest|[Cat Quest](https://store.steampowered.com/app/593280)|[Cat Quest](https://apps.apple.com/us/app/id1148385289)|✓|✓|✓|✓|
 Cosmic Express|[Cosmic Express](https://store.steampowered.com/app/583270)|[Cosmic Express](https://apps.apple.com/us/app/id1152474226)|✓|✓|✓|✓|
