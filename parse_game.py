@@ -54,15 +54,19 @@ def get_games():
 
 # print(get_games())
 
-def write_md(filename, games):
+def write_md(filename, games, compat_columns=True):
     checkmark_key = {
         True: '\u2713',
         False: '\u2717',
         None: '?'
     }
     with open(filename, 'w') as mdfile:
-        mdfile.write('Game|Steam|iOS|Cloud Save|Game Parity|DLC Parity|Save Compatibility|Notes\n')
-        mdfile.write('-|-|-|-|-|-|-|-\n')
+        if compat_columns:
+            mdfile.write('Game|Steam|iOS|Cloud Save|Game Parity|DLC Parity|Save Compatibility|Notes\n')
+            mdfile.write('-|-|-|-|-|-|-|-\n')
+        else:
+            mdfile.write('Game|Steam|iOS|Notes\n')
+            mdfile.write('-|-|-|-\n')
         for game in sorted(list(games.keys())):
             game_obj = games[game]
             game_row = f'{game}|'
@@ -90,13 +94,14 @@ def write_md(filename, games):
                         previous_dlc = True
                     ios_cell += ' DLC' + ('s' if len(ios_game['dlc_available']) > 1 else '') + ' available as IAP)_'
             game_row += ios_cell
-            game_row += '|' + checkmark_key[game_obj['cloud']]
-            game_row += '|' + checkmark_key[game_obj['game_parity']]
-            game_row += '|' + checkmark_key[game_obj['dlc_parity']]
-            game_row += '|' + checkmark_key[game_obj['save_compatibility']]
+            if compat_columns:
+                game_row += '|' + checkmark_key[game_obj['cloud']]
+                game_row += '|' + checkmark_key[game_obj['game_parity']]
+                game_row += '|' + checkmark_key[game_obj['dlc_parity']]
+                game_row += '|' + checkmark_key[game_obj['save_compatibility']]
             game_row += '|' + game_obj['notes'] + '\n'
             mdfile.write(game_row)
 
 games = get_games()
 write_md('Games.md', games)
-write_md('Compatible Games.md', {k: v for k, v in games.items() if v['cloud'] and v['game_parity'] and v['dlc_parity'] and v['save_compatibility']})
+write_md('Compatible Games.md', {k: v for k, v in games.items() if v['cloud'] and v['game_parity'] and v['dlc_parity'] and v['save_compatibility']}, False)
