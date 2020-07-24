@@ -24,6 +24,7 @@ Octodad: Dadliest Catch|[Octodad: Dadliest Catch](https://store.steampowered.com
 Party Hard|[Party Hard](https://store.steampowered.com/app/356570)|[Party Hard](https://apps.apple.com/us/app/id1136744871)|✗|?|✓|?|
 ROME: Total War|[ROME: Total War](https://store.steampowered.com/app/4760), [Alexander DLC](https://store.steampowered.com/app/4770)|[ROME: Total War](https://apps.apple.com/us/app/id1106831630), [ROME: Total War + Barbarian Invasion DLC](https://apps.apple.com/us/app/id1183898700), [ROME: Total War + Alexander DLC](https://apps.apple.com/us/app/id1245565445)|✓|✗|✗|✗|
 Race The Sun|[Race The Sun](https://store.steampowered.com/app/253030)|[Race The Sun](https://apps.apple.com/us/app/id700227648)|✓|✓|✓|✓|
+Rogue Legacy|[Rogue Legacy](https://store.steampowered.com/app/241600)|[Rogue Legacy](https://apps.apple.com/us/app/id1453189467)|✓|✗|✓|✗|
 Sproggiwood|[Sproggiwood](https://store.steampowered.com/app/311720)|[Sproggiwood](https://apps.apple.com/us/app/id625411864)|✗|✓|✓|?|
 The Banner Saga|[The Banner Saga](https://store.steampowered.com/app/237990)|[The Banner Saga](https://apps.apple.com/us/app/id911006986)|✓|✓|✓|✓|
 The Banner Saga 2|[The Banner Saga 2](https://store.steampowered.com/app/281640)|[The Banner Saga 2](https://apps.apple.com/us/app/id1107741196) _(Survival Mode DLC available as IAP)_|✓|✓|✓|✓|
