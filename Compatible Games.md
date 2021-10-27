@@ -12,3 +12,4 @@ Octodad: Dadliest Catch|[Octodad: Dadliest Catch](https://store.steampowered.com
 Race The Sun|[Race The Sun](https://store.steampowered.com/app/253030)|[Race The Sun](https://apps.apple.com/us/app/id700227648)|
 The Banner Saga|[The Banner Saga](https://store.steampowered.com/app/237990)|[The Banner Saga](https://apps.apple.com/us/app/id911006986)|
 The Banner Saga 2|[The Banner Saga 2](https://store.steampowered.com/app/281640)|[The Banner Saga 2](https://apps.apple.com/us/app/id1107741196) _(Survival Mode DLC available as IAP)_|
+Transistor|[Transistor](https://store.steampowered.com/app/237930)|[Transistor](https://apps.apple.com/us/app/id948857526)|

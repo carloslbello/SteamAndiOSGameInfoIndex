@@ -3,6 +3,7 @@ Game|Steam|iOS|Cloud Save|Game Parity|DLC Parity|Save Compatibility|Notes
 A Good Snowman Is Hard To Build|[A Good Snowman Is Hard To Build](https://store.steampowered.com/app/316610)|[A Good Snowman Is Hard To Build](https://apps.apple.com/us/app/id1040930654)|✓|✓|✓|✓|
 Aquaria|[Aquaria](https://store.steampowered.com/app/24420)|[Aquaria](https://apps.apple.com/us/app/id469372252)|✗|✓|✓|?|
 Bad North: Jotunn Edition|[Bad North: Jotunn Edition](https://store.steampowered.com/app/688420)|[Bad North: Jotunn Edition](https://apps.apple.com/us/app/id1367121168)|✓|✓|✓|✓|
+Bastion|[Bastion](https://store.steampowered.com/app/107100)|[Bastion](https://apps.apple.com/us/app/id1467063160)|✓|✗|✓|✗|
 Cat Quest|[Cat Quest](https://store.steampowered.com/app/593280)|[Cat Quest](https://apps.apple.com/us/app/id1148385289)|✓|✓|✓|✓|
 Cosmic Express|[Cosmic Express](https://store.steampowered.com/app/583270)|[Cosmic Express](https://apps.apple.com/us/app/id1152474226)|✓|✓|✓|✓|
 Crypt of the Necrodancer|[Crypt of the Necrodancer](https://store.steampowered.com/app/247080), [AMPLIFIED DLC](https://store.steampowered.com/app/554000)|[Crypt of the Necrodancer](https://apps.apple.com/us/app/id1085123968), [Crypt of the Necrodancer + AMPLIFIED DLC](https://apps.apple.com/us/app/id1445623416)|✓|✓|✓|✓|
@@ -30,4 +31,5 @@ Sproggiwood|[Sproggiwood](https://store.steampowered.com/app/311720)|[Sproggiwoo
 The Banner Saga|[The Banner Saga](https://store.steampowered.com/app/237990)|[The Banner Saga](https://apps.apple.com/us/app/id911006986)|✓|✓|✓|✓|
 The Banner Saga 2|[The Banner Saga 2](https://store.steampowered.com/app/281640)|[The Banner Saga 2](https://apps.apple.com/us/app/id1107741196) _(Survival Mode DLC available as IAP)_|✓|✓|✓|✓|
 The Binding of Isaac: Rebirth|[The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900), [Afterbirth DLC](https://store.steampowered.com/app/401920), [Afterbirth+ DLC](https://store.steampowered.com/app/570660)|[The Binding of Isaac: Rebirth](https://apps.apple.com/us/app/id1069549814)|✓|✓|✗|✓|
+Transistor|[Transistor](https://store.steampowered.com/app/237930)|[Transistor](https://apps.apple.com/us/app/id948857526)|✓|✓|✓|✓|
 Undead Horde|[Undead Horde](https://store.steampowered.com/app/790850)|[Undead Horde](https://apps.apple.com/us/app/id1388267373)|✓|✓|✓|✗|Contact developer about Steam version files (can it be converted to the XML files from iOS?)
