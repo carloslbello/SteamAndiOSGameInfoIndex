@@ -21,6 +21,7 @@ Hyper Light Drifter|[Hyper Light Drifter](https://store.steampowered.com/app/257
 Invisible, Inc.|[Invisible, Inc.](https://store.steampowered.com/app/243970), [Contingency Plan DLC](https://store.steampowered.com/app/376980)|[Invisible, Inc.](https://apps.apple.com/us/app/id1147331964)|✓|✓|✗|✓|
 Kingdom: New Lands|[Kingdom: New Lands](https://store.steampowered.com/app/496300)|[Kingdom: New Lands](https://apps.apple.com/us/app/id1118513354)|✓|✓|✓|✗|iOS saves are compressed and I can't figure out what compression is used.
 Kingdom: Two Crowns|[Kingdom: Two Crowns](https://store.steampowered.com/app/701160)|[Kingdom: Two Crowns](https://apps.apple.com/us/app/id1477991646)|✗|✓|✓|✓|
+Mini Metro|[Mini Metro](https://store.steampowered.com/app/287980)|[Mini Metro](https://apps.apple.com/us/app/id837860959)|✓|✓|✓|✓|
 Mushroom 11|[Mushroom 11](https://store.steampowered.com/app/243160)|[Mushroom 11](https://apps.apple.com/us/app/id1193911528)|✓|✓|✓|✗|Saves are compatible but Steam Cloud is implemented in a buggy way ([username].* save file names, when username changes new files are used).
 Octodad: Dadliest Catch|[Octodad: Dadliest Catch](https://store.steampowered.com/app/224480)|[Octodad: Dadliest Catch](https://apps.apple.com/us/app/id1017367213)|✓|✓|✓|✓|
 Party Hard|[Party Hard](https://store.steampowered.com/app/356570)|[Party Hard](https://apps.apple.com/us/app/id1136744871)|✗|?|✓|?|

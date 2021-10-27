@@ -8,6 +8,7 @@ Crypt of the Necrodancer|[Crypt of the Necrodancer](https://store.steampowered.c
 Dandara: Trials of Fear Edition|[Dandara: Trials of Fear Edition](https://store.steampowered.com/app/612390)|[Dandara: Trials of Fear Edition](https://apps.apple.com/us/app/id1168013926)|
 Darkest Dungeon|[Darkest Dungeon](https://store.steampowered.com/app/262060), [The Crimson Court DLC](https://store.steampowered.com/app/580100), [The Shieldbreaker DLC](https://store.steampowered.com/app/702540), [The Color Of Madness DLC](https://store.steampowered.com/app/735730), [The Musketeer DLC](https://store.steampowered.com/app/445700)|[Darkest Dungeon](https://apps.apple.com/us/app/id1199831446) _(The Crimson Court, The Shieldbreaker, The Color Of Madness, The Musketeer DLCs available as IAP)_|
 GRIS|[GRIS](https://store.steampowered.com/app/683320)|[GRIS](https://apps.apple.com/us/app/id1445379072)|
+Mini Metro|[Mini Metro](https://store.steampowered.com/app/287980)|[Mini Metro](https://apps.apple.com/us/app/id837860959)|
 Octodad: Dadliest Catch|[Octodad: Dadliest Catch](https://store.steampowered.com/app/224480)|[Octodad: Dadliest Catch](https://apps.apple.com/us/app/id1017367213)|
 Race The Sun|[Race The Sun](https://store.steampowered.com/app/253030)|[Race The Sun](https://apps.apple.com/us/app/id700227648)|
 The Banner Saga|[The Banner Saga](https://store.steampowered.com/app/237990)|[The Banner Saga](https://apps.apple.com/us/app/id911006986)|
