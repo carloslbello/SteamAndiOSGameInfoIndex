@@ -1,6 +1,7 @@
 Game|Steam|iOS|Cloud Save|Game Parity|DLC Parity|Save Compatibility|Notes
 -|-|-|-|-|-|-|-
 A Good Snowman Is Hard To Build|[A Good Snowman Is Hard To Build](https://store.steampowered.com/app/316610)|[A Good Snowman Is Hard To Build](https://apps.apple.com/us/app/id1040930654)|✓|✓|✓|✓|
+Adventures of Pip|[Adventures of Pip](https://store.steampowered.com/app/303550)|[Adventures of Pip](https://apps.apple.com/us/app/id785803965)|✗|✓|✓|✓|
 Aquaria|[Aquaria](https://store.steampowered.com/app/24420)|[Aquaria](https://apps.apple.com/us/app/id469372252)|✗|✓|✓|?|
 Bad North: Jotunn Edition|[Bad North: Jotunn Edition](https://store.steampowered.com/app/688420)|[Bad North: Jotunn Edition](https://apps.apple.com/us/app/id1367121168)|✓|✓|✓|✓|
 Bastion|[Bastion](https://store.steampowered.com/app/107100)|[Bastion](https://apps.apple.com/us/app/id1467063160)|✓|✗|✓|✗|
