@@ -1,0 +1,14 @@
+{
+  "steam": {
+    "id": 243970,
+    "dlc": {
+      "Contingency Plan": 376980
+    }
+  },
+  "ios": {
+    "id": 1147331964
+  },
+  "cloud": true,
+  "game_parity": true,
+  "save_compatibility": true
+}
