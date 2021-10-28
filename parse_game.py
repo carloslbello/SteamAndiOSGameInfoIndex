@@ -48,7 +48,7 @@ def get_games():
         game_obj['game_parity'] = games_json[game]['game_parity']
         game_obj['dlc_parity'] = calculated_dlc_parity if 'dlc_parity' not in games_json[game] else games_json[game]['dlc_parity']
         game_obj['save_compatibility'] = games_json[game]['save_compatibility']
-        game_obj['notes'] = '' if 'notes' not in games_json[game] else games_json[game]['notes']
+        game_obj['notes'] = ('' if 'notes' not in games_json[game] else games_json[game]['notes'] + '<br>') + f'_Last updated: {games_json[game]["last_updated"]}_'
         games[game] = game_obj
     return games
 

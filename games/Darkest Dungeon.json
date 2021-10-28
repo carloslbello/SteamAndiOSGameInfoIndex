@@ -1,4 +1,5 @@
 {
+  "last_updated": "07/19/20",
   "steam": {
     "id": 262060,
     "dlc": {
@@ -10,7 +11,12 @@
   },
   "ios": {
     "id": 1199831446,
-    "dlc_available": ["The Crimson Court", "The Shieldbreaker", "The Color Of Madness", "The Musketeer"]
+    "dlc_available": [
+      "The Crimson Court",
+      "The Shieldbreaker",
+      "The Color Of Madness",
+      "The Musketeer"
+    ]
   },
   "cloud": true,
   "game_parity": true,

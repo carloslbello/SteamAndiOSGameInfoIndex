@@ -1,4 +1,5 @@
 import os
+from datetime import date
 
 def convertBoolAnswer(boolAnswer):
     value = 'null'
@@ -25,7 +26,9 @@ def add_game():
     else:
         save_compatibility = convertBoolAnswer(input('Save compatibility between platforms? (y/n/?) [?]: '))
     notes = input('Notes: ')
+    today = date.today().strftime('%m/%d/%y')
     json_to_save = f'''{{
+  "last_updated": "{today}",
   "steam": {{
     "id": {steam_id}
   }},
