@@ -17,12 +17,14 @@ def add_game():
     print(f'Steam ID: {steam_id}')
     appstore_link = input('Link to game on App Store: ')
     appstore_id = appstore_link.split('/')[6][2:]
+    if '?' in appstore_id:
+        appstore_id = appstore_id[:appstore_id.find('?')]
     print(f'App Store ID: {appstore_id}')
     cloud = convertBoolAnswer(input('Cloud save on both platforms? (y/n/?) [?]: '))
     parity = convertBoolAnswer(input('Game parity on both platforms? (y/n/?) [?]: '))
-    save_compatibility = 'false'
-    if parity == 'false':
-        print('Assuming save compatibility is no, since game parity is no')
+    if parity in ['false', 'null']:
+        print(f'Assuming save compatibility is {parity}, since game parity is {parity}')
+        save_compatibility = parity
     else:
         save_compatibility = convertBoolAnswer(input('Save compatibility between platforms? (y/n/?) [?]: '))
     notes = input('Notes: ')
