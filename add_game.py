@@ -1,5 +1,6 @@
 import os
 from datetime import date
+import parse_game
 
 def convertBoolAnswer(boolAnswer):
     value = 'null'
@@ -52,3 +53,5 @@ while True:
     add_game()
     if input('Add another game? (y/n) [n]: ') != 'y':
         break
+print('Updating files')
+parse_game.write_files()

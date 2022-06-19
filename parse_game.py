@@ -102,6 +102,7 @@ def write_md(filename, games, compat_columns=True):
             game_row += '|' + game_obj['notes'] + '\n'
             mdfile.write(game_row)
 
-games = get_games()
-write_md('Games.md', games)
-write_md('Compatible Games.md', {k: v for k, v in games.items() if v['cloud'] and v['game_parity'] and v['dlc_parity'] and v['save_compatibility']}, False)
+def write_files():
+    games = get_games()
+    write_md('Games.md', games)
+    write_md('Compatible Games.md', {k: v for k, v in games.items() if v['cloud'] and v['game_parity'] and v['dlc_parity'] and v['save_compatibility']}, False)
