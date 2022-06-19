@@ -15,6 +15,7 @@ def get_games():
             'link': f'https://store.steampowered.com/app/{games_json[game]["steam"]["id"]}'
         }
         game_obj['steam']['dlc'] = {}
+        game_obj['steam']['dlc_included'] = []
         steam_dlc_names = set()
         if 'dlc' in games_json[game]['steam']:
             for dlc in games_json[game]['steam']['dlc']:
@@ -23,6 +24,10 @@ def get_games():
                     'id': games_json[game]['steam']['dlc'][dlc],
                     'link': f'https://store.steampowered.com/app/{games_json[game]["steam"]["dlc"][dlc]}'
                 }
+        if 'dlc_included' in games_json[game]['steam']:
+            game_obj['steam']['dlc_included'] = games_json[game]['steam']['dlc_included']            
+            for dlc in games_json[game]['steam']['dlc_included']:
+                steam_dlc_names.add(dlc)
         game_obj['ios'] = []
         ios_games = []
         ios_dlc_sets = []
@@ -69,8 +74,12 @@ def write_md(filename, games, compat_columns=True):
             mdfile.write('-|-|-|-\n')
         for game in sorted(list(games.keys())):
             game_obj = games[game]
-            game_row = f'{game}|'
-            game_row += f'[{game}]({game_obj["steam"]["link"]})'
+            game_row = f'{game}|[{game}'
+            if game_obj['steam']['dlc_included'] != []:
+                for dlc in game_obj['steam']['dlc_included']:
+                    game_row += f' + {dlc} '
+                game_row += 'DLC' + ('s' if len(game_obj['steam']['dlc_included']) > 1 else '')
+            game_row += ']({game_obj["steam"]["link"]})'
             for dlc in game_obj['steam']['dlc']:
                 game_row += f', [{dlc} DLC]({game_obj["steam"]["dlc"][dlc]["link"]})'
             game_row += '|'
