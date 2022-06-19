@@ -1,0 +1,24 @@
+{
+  "last_updated": "06/19/22",
+  "steam": {
+    "id": 228280,
+    "dlc_included": [
+      "To Flee Thay",
+      "A Blackguard's Revenge",
+      "Jason Manley Portrait Pack",
+      "Enhanced Voice Pack"
+    ]
+  },
+  "ios": {
+    "id": 515114051,
+    "dlc_available": [
+      "To Flee Thay",
+      "A Blackguard's Revenge",
+      "Jason Manley Portrait Pack",
+      "Enhanced Voice Pack"
+    ]
+  },
+  "cloud": true,
+  "game_parity": null,
+  "save_compatibility": null
+}

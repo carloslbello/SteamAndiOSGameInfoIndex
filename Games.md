@@ -5,6 +5,7 @@ AdVenture Capitalist|[AdVenture Capitalist](https://store.steampowered.com/app/3
 Adventures of Pip|[Adventures of Pip](https://store.steampowered.com/app/303550)|[Adventures of Pip](https://apps.apple.com/us/app/id785803965)|✗|✓|✓|✓|_Last updated: 10/27/21_
 Aquaria|[Aquaria](https://store.steampowered.com/app/24420)|[Aquaria](https://apps.apple.com/us/app/id469372252)|✗|✓|✓|?|_Last updated: 07/22/20_
 Bad North: Jotunn Edition|[Bad North: Jotunn Edition](https://store.steampowered.com/app/688420)|[Bad North: Jotunn Edition](https://apps.apple.com/us/app/id1367121168)|✓|✓|✓|✓|_Last updated: 07/16/20_
+Baldur's Gate: Enhanced Edition|[Baldur's Gate: Enhanced Edition + To Flee Thay  + A Blackguard's Revenge  + Jason Manley Portrait Pack  + Enhanced Voice Pack DLCs](https://store.steampowered.com/app/228280)|[Baldur's Gate: Enhanced Edition](https://apps.apple.com/us/app/id515114051) _(To Flee Thay, A Blackguard's Revenge, Jason Manley Portrait Pack, Enhanced Voice Pack DLCs available as IAP)_|✓|?|✓|?|_Last updated: 06/19/22_
 Bastion|[Bastion](https://store.steampowered.com/app/107100)|[Bastion](https://apps.apple.com/us/app/id1467063160)|✓|✗|✓|✗|_Last updated: 10/27/21_
 Cat Quest|[Cat Quest](https://store.steampowered.com/app/593280)|[Cat Quest](https://apps.apple.com/us/app/id1148385289)|✓|✓|✓|✓|_Last updated: 07/17/20_
 Cosmic Express|[Cosmic Express](https://store.steampowered.com/app/583270)|[Cosmic Express](https://apps.apple.com/us/app/id1152474226)|✓|✓|✓|✓|_Last updated: 09/08/19_
