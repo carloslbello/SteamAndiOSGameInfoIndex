@@ -79,7 +79,7 @@ def write_md(filename, games, compat_columns=True):
                 for dlc in game_obj['steam']['dlc_included']:
                     game_row += f' + {dlc} '
                 game_row += 'DLC' + ('s' if len(game_obj['steam']['dlc_included']) > 1 else '')
-            game_row += ']({game_obj["steam"]["link"]})'
+            game_row += f']({game_obj["steam"]["link"]})'
             for dlc in game_obj['steam']['dlc']:
                 game_row += f', [{dlc} DLC]({game_obj["steam"]["dlc"][dlc]["link"]})'
             game_row += '|'
