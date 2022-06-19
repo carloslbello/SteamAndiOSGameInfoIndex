@@ -77,8 +77,8 @@ def write_md(filename, games, compat_columns=True):
             game_row = f'{game}|[{game}'
             if game_obj['steam']['dlc_included'] != []:
                 for dlc in game_obj['steam']['dlc_included']:
-                    game_row += f' + {dlc} '
-                game_row += 'DLC' + ('s' if len(game_obj['steam']['dlc_included']) > 1 else '')
+                    game_row += f' + {dlc}'
+                game_row += ' DLC' + ('s' if len(game_obj['steam']['dlc_included']) > 1 else '')
             game_row += f']({game_obj["steam"]["link"]})'
             for dlc in game_obj['steam']['dlc']:
                 game_row += f', [{dlc} DLC]({game_obj["steam"]["dlc"][dlc]["link"]})'
@@ -90,8 +90,8 @@ def write_md(filename, games, compat_columns=True):
                 ios_cell += '[' + game
                 if ios_game['dlc_included'] != []:
                     for dlc in ios_game['dlc_included']:
-                        ios_cell += f' + {dlc} '
-                    ios_cell += 'DLC' + ('s' if len(ios_game['dlc_included']) > 1 else '')
+                        ios_cell += f' + {dlc}'
+                    ios_cell += ' DLC' + ('s' if len(ios_game['dlc_included']) > 1 else '')
                 ios_cell += f']({ios_game["link"]})'
                 if ios_game['dlc_available'] != []:
                     ios_cell += ' _('
