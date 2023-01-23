@@ -5,7 +5,10 @@
   },
   "ios": {
     "id": 1107741196,
-    "dlc_available": ["Survival Mode"]
+    "dlc_available": [
+      "Survival Mode"
+    ],
+    "last_updated": "05/03/17"
   },
   "cloud": true,
   "game_parity": true,

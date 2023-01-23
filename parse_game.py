@@ -1,5 +1,12 @@
 import os
 import json
+from datetime import date
+
+def slashed_date_string_to_date(string):
+    split_date_string = split_last_updated = list(
+        map(int, string.split('/')))
+    return date(2000 + split_date_string[2], split_date_string[0], split_date_string[1])
+
 
 def get_games():
     path = os.path.dirname(os.path.realpath(__file__))
@@ -31,6 +38,7 @@ def get_games():
         game_obj['ios'] = []
         ios_games = []
         ios_dlc_sets = []
+        most_recent_update = date(1970, 1, 1)
         if type(games_json[game]['ios']) is dict:
             ios_games.append(games_json[game]['ios'])
         else:
@@ -40,8 +48,14 @@ def get_games():
                 'id': ios_game['id'],
                 'link': f'https://apps.apple.com/us/app/id{ios_game["id"]}',
                 'dlc_available': [] if 'dlc_available' not in ios_game else ios_game['dlc_available'],
-                'dlc_included': [] if 'dlc_included' not in ios_game else ios_game['dlc_included']
+                'dlc_included': [] if 'dlc_included' not in ios_game else ios_game['dlc_included'],
+                'last_updated': ios_game['last_updated']
             }
+            if '/' in ios_game['last_updated']:
+                last_updated_date = slashed_date_string_to_date(
+                    ios_game['last_updated'])
+                if most_recent_update < last_updated_date:
+                    most_recent_update = last_updated_date
             game_obj['ios'].append(ios_game_obj)
             ios_dlc_sets.append(set(ios_game_obj['dlc_available']).union(ios_game_obj['dlc_included']))
         calculated_dlc_parity = False
@@ -53,11 +67,9 @@ def get_games():
         game_obj['game_parity'] = games_json[game]['game_parity']
         game_obj['dlc_parity'] = calculated_dlc_parity if 'dlc_parity' not in games_json[game] else games_json[game]['dlc_parity']
         game_obj['save_compatibility'] = games_json[game]['save_compatibility']
-        game_obj['notes'] = ('' if 'notes' not in games_json[game] else games_json[game]['notes'] + '<br>') + f'_Last updated: {games_json[game]["last_updated"]}_'
+        game_obj['notes'] = ('' if 'notes' not in games_json[game] else games_json[game]['notes'] + '<br>') + ('\u26a0 ' if slashed_date_string_to_date(games_json[game]['last_updated']) < most_recent_update else '') + f'_Last updated: {games_json[game]["last_updated"]}_'
         games[game] = game_obj
     return games
-
-# print(get_games())
 
 def write_md(filename, games, compat_columns=True):
     checkmark_key = {
@@ -102,6 +114,7 @@ def write_md(filename, games, compat_columns=True):
                         ios_cell += dlc
                         previous_dlc = True
                     ios_cell += ' DLC' + ('s' if len(ios_game['dlc_available']) > 1 else '') + ' available as IAP)_'
+                ios_cell += ' (last updated: ' + ios_game['last_updated'] + ')'
             game_row += ios_cell
             if compat_columns:
                 game_row += '|' + checkmark_key[game_obj['cloud']]

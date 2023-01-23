@@ -1,5 +1,6 @@
 import os
 from datetime import date
+import json
 import parse_game
 
 def convertBoolAnswer(boolAnswer):
@@ -30,23 +31,22 @@ def add_game():
         save_compatibility = convertBoolAnswer(input('Save compatibility between platforms? (y/n/?) [?]: '))
     notes = input('Notes: ')
     today = date.today().strftime('%m/%d/%y')
-    json_to_save = f'''{{
-  "last_updated": "{today}",
-  "steam": {{
-    "id": {steam_id}
-  }},
-  "ios": {{
-    "id": {appstore_id}
-  }},
-  "cloud": {cloud},
-  "game_parity": {parity},
-  "save_compatibility": {save_compatibility}'''
+    json_to_save = {
+        'last_updated': today,
+        'steam': {
+            'id': steam_id
+        },
+        'ios': {
+            'id': appstore_id
+        },
+        'cloud': cloud,
+        'game_parity': parity,
+        'save_compatibility': save_compatibility
+    }
     if notes:
-        json_to_save += f',\n  "notes": "{notes}"'
-    json_to_save += '\n}\n'
-    print(json_to_save[:-1])
-    with open(os.path.join(path, 'games', game_name + '.json'), 'w') as file:
-        file.write(json_to_save)
+        json_to_save['notes'] = notes
+
+    json.dump(json_to_save, open(os.path.join(path, 'games', game_name + '.json'), 'w'), indent=2)
     print(f'To add DLC information, edit the new file (games/{game_name}.json).')
 
 while True:

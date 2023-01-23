@@ -11,11 +11,17 @@
   "ios": [
     {
       "id": 1012298403,
-      "dlc_included": ["Reign of Giants"]
+      "dlc_included": [
+        "Reign of Giants"
+      ],
+      "last_updated": "06/29/22"
     },
     {
       "id": 1147297267,
-      "dlc_included": ["Shipwrecked"]
+      "dlc_included": [
+        "Shipwrecked"
+      ],
+      "last_updated": "07/15/22"
     }
   ],
   "cloud": true,

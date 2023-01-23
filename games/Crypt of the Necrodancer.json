@@ -8,11 +8,15 @@
   },
   "ios": [
     {
-      "id": 1085123968
+      "id": 1085123968,
+      "last_updated": "02/06/20"
     },
     {
       "id": 1445623416,
-      "dlc_included": ["AMPLIFIED"]
+      "dlc_included": [
+        "AMPLIFIED"
+      ],
+      "last_updated": "02/06/20"
     }
   ],
   "cloud": true,

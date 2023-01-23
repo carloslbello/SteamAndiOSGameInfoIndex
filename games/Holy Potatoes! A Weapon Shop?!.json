@@ -8,7 +8,10 @@
   },
   "ios": {
     "id": 1048011718,
-    "dlc_available": ["Spud Tales: Journey to Olympus"]
+    "dlc_available": [
+      "Spud Tales: Journey to Olympus"
+    ],
+    "last_updated": "04/15/19"
   },
   "cloud": true,
   "game_parity": true,
